@@ -1,4 +1,4 @@
-package demoblaze.carritoDeCompras;
+package demoblaze;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
